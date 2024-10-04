@@ -1,0 +1,3 @@
+copy con a.txt
+copy con a.txt
+copy con a.txt
